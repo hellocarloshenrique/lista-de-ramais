@@ -1,0 +1,29 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 5px;
+    font-size: 14px;
+
+}
+
+h2 {
+    font-family: 'roboto', sans-serif;
+    margin: 4px;
+    padding: 10px;
+    
+}
+
+table {
+    font-family: 'Roboto', sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  td, th {
+    border: 1px solid #bbbbbb;
+    text-align: left;
+    padding: 2px;
+  }
+
+  tr:nth-child(even) {
+    background-color: #dddddd;
+  }
